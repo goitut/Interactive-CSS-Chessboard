@@ -1,0 +1,18 @@
+body{
+  background-image: url("/assets/pexels-amad-reseutte-2152817201-32424119.jpg");
+  background-size: cover;
+}
+
+h3 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  font-size: 50px;
+  color: #9e5050;
+  text-shadow: black 2px 2px;
+  transition: ease 1s;
+}
+
+h3:hover{
+  color:aqua;
+
+}

@@ -1,6 +1,9 @@
+
 body{
   background-image: url("/assets/pexels-amad-reseutte-2152817201-32424119.jpg");
   background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
 }
 
 h3 {
@@ -12,7 +15,21 @@ h3 {
   transition: ease 1s;
 }
 
+p {
+  margin-top: 20%;
+  text-align: center;
+  color: #9e5050;
+}
+
 h3:hover{
   color:aqua;
+}
 
+img {
+  display: block;
+  margin: auto;
+  max-width: 100px;
+  max-height: 150px;
+  height: 25%;
+  align-self: center;
 }
